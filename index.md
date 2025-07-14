@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Cristal S. Yee is a Chief Strategist for the UCSF Musculoskeletal Center and Scientist in Dr. Tamara Alliston's lab.>
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Musculoskeletal Research:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 - **Digital Health Humanities:** I do things.
 
