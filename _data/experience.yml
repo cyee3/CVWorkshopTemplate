@@ -1,6 +1,14 @@
 main:
 
   - type: education
+    degreepath: Ph.D in Quantitative Systems Biology # for type.education.
+    institution: University of California, Merced
+    department: Lorem Ipsum
+    advisors: Gabriella Loots # for type.education.
+    thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2011 - 2016
+
+  - type: education
     degreepath: This is a degree path # for type.education.
     institution: University University
     department: Lorem Ipsum
